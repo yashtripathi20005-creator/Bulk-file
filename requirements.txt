@@ -1,0 +1,16 @@
+# Bulk File Renamer - Python Dependencies
+# This application uses only standard library modules.
+# No external packages are required.
+# Python 3.6+ is recommended for best performance.
+
+# The following modules are used:
+# - tkinter (built-in GUI toolkit)
+# - os (file system operations)
+# - sys (system operations)
+# - re (regular expressions)
+# - pathlib (path operations)
+# - threading (background operations)
+# - datetime (timestamp generation)
+
+# To run this application, simply execute:
+# python file_renamer.py
